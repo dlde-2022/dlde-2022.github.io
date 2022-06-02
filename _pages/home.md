@@ -13,10 +13,10 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE)</h1></center>
-    <center><h2>NeurIPS 2021 Workshop</h2></center>
+    <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE) - II </h1></center>
+    <center><h2>NeurIPS 2022 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      December 14th, 06:45 AM to 24:00 PM EST,
+      December 14th, 08:00 AM to 16:00 PM EST,
       Virtual Workshop
     </span></center>
   </div>
@@ -33,31 +33,6 @@ acknowledgements: ""
   </div> 
 </div>
 
-<center><span style="color:#3a92d6;font-weight:400;">
-Submit your questions to the panelists 
-<a style="font-weight:500;" href="https://docs.google.com/forms/d/e/1FAIpQLSfIxfL0O06MmZRNbIlibH8UgdnhQta3b2MCxindswKzrkx6bA/viewform">[here]</a>
-</span></center>
-
-<center><span style="color:#3a92d6;font-weight:400;">
-Register to NeurIPS to attend the Workshop 
-<a style="font-weight:500;" href="https://neurips.cc/Register2">[here]</a>
-</span></center>
-
-<center><span style="color:#3a92d6;font-weight:400;">
-Find the posters on GatherTown
-<a style="font-weight:500;" href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">[here]</a>
-and their time 
-<a style="font-weight:500;" href="https://neurips.cc/virtual/2021/workshop/21880">[here]</a>
-</span></center>
-
-
-
-<center><span style="color:#3a92d6;font-weight:400;">
-Find the schedule, zoom link, livestream, and rocket.chat
-<a style="font-weight:500;" href="https://neurips.cc/virtual/2021/workshop/21880">[here]</a> (Login required)
-</span></center>
-
-
 
 <br>
 <div class="row" id="intro">
@@ -70,12 +45,11 @@ Find the schedule, zoom link, livestream, and rocket.chat
 <p>
 
 <p>
-The focus of this workshop is on the interplay between deep learning (DL) and differential equations (DEs).
-In recent years, there has been a rapid increase of machine learning applications in computational sciences, with some of the most impressive results at the interface of DL and DEs. 
-These successes have widespread implications, as DEs are among the most well-understood tools for the mathematical analysis of scientific knowledge, and they are fundamental building blocks for mathematical models in engineering, finance, and the natural sciences. 
-This relationship is mutually beneficial.
+In recent years, there has been a rapid increase of machine learning applications in computational sciences, with some of the most impressive results at the interface of deep learning (DL) and differential equations (DEs). 
 DL techniques have been used in a variety of ways to dramatically enhance the effectiveness of DE solvers and computer simulations.
-Conversely, DEs have also been used as mathematical models of the neural architectures and training algorithms arising in DL.</p>
+These successes have widespread implications, as DEs are among the most well-understood tools for the mathematical analysis of scientific knowledge, and they are fundamental building blocks for mathematical models in engineering, finance, and the natural sciences.
+Conversely, DL algorithms based on DEs--such as neural differential equations and continuous-time diffusion models--have also been successfully employed as deep learning models.
+Moreover, theoretical tools from DE analysis have been used to glean insights into the expressivity and training dynamics of mainstream deep learning algorithms. </p>
 
 <p>
 This workshop will aim to bring together researchers from each discipline to encourage intellectual exchanges and cultivate relationships between the two communities.
