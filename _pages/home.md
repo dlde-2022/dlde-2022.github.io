@@ -52,7 +52,7 @@ Conversely, DL algorithms based on DEs--such as neural differential equations an
 Moreover, theoretical tools from DE analysis have been used to glean insights into the expressivity and training dynamics of mainstream deep learning algorithms. </p>
 
 <p>
-This workshop will aim to bring together researchers from each discipline to encourage intellectual exchanges and cultivate relationships between the two communities.
+This workshop will aim to bring together researchers with backgrounds in computational science and deep learning to encourage intellectual exchanges, cultivate relationships and accelerate research in this area.
 The scope of the workshop spans topics at the intersection of DL and DEs, including theory of DL and DEs, neural differential equations, solving DEs with neural networks, and more. </p>
 
 
@@ -104,21 +104,18 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 <div class="row">
   <div class="col-xs-12">
     <ul>
-      <li>How can DE models provide insights into DL? 
+      <li>Using differential equation models to understand and improve deep learning algorithms: </li> 
       <ul>
-        <li>What families of functions are best represented by different neural architectures? <a href="#note1" id="note5ref">[8]</a></li>
-        <li>Can this connection guide the design of new neural architectures? <a href="#note1" id="note2ref">[3, 4, 13]</a> </li> 
-        <li>Can DE models be used to derive bounds on generalization error? <a href="#note1" id="note9ref">[12]</a> </li>
-        <li>What insights can DE models provide into training dynamics? <a href="#note1" id="note4ref">[6, 7]</a></li>
-        <li>Can these insights guide the design of weight initialization schemes?</li>
+        <li>Incorporating DEs into existing DL models (neural differential equations, diffusion models, ...)  </li> 
+        <li>Analysis of numerical methods for implementing DEs in DL models (trade-offs, benchmarks, ...) </li> 
+        <li>Modeling training dynamics using DEs to generate theoretical insights and novel algorithms. </li>
       </ul>
       </li>
-      <li>How can DL be used to enhance the analysis of DEs? <a href="#note1" id="note1ref">[1, 2]</a>
+      <li>Using deep learning algorithms to create or solve differential equation models:</li> 
       <ul>
-        <li>Solving high dimensional DEs (e.g., many-body physics, multi-agent models, …) <a href="#note1" id="note3ref">[5, 10, 15]</a></li>
-        <li>Solving highly parameterized DEs <a href="#note1" id="note6ref">[9]</a> </li>
-        <li>Solving inverse problems <a href="#note1" id="note8ref">[11, 14]</a> </li>
-        <li>Solving DEs with irregular solutions (exhibiting e.g., singularities, shocks, …)</li>
+        <li>DL methods for solving high-dimensional, highly parameterized, or otherwise challenging DE models.</li>
+        <li>Learning-augmented numerical methods for DEs (hypersolvers, hybrid solvers ...) </li>
+        <li>Specialized DL architectures for solving DEs (neural operators, PINNs, ...). </li>
       </ul>
       </li>
     </ul>
