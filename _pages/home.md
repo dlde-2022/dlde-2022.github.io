@@ -287,6 +287,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </a>
     <div class="people-name">
       <a href="https://winniexu.ca/">Winnie Xu</a>
+      <h6>University of Toronto</h6>
       <h6>Google Brain</h6>
     </div>
   </div>
