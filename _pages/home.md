@@ -390,6 +390,15 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </div>
   </div>
 
+  <div class="col-xs-3">
+    <a href="https://maryamhoss.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/maryam.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://maryamhoss.github.io/">Maryam Hosseini</a>
+      <h6>Université de Sherbrooke</h6>
+    </div>
+  </div>
 
   <div class="col-xs-3">
     <a href="https://sites.google.com/winlab.rutgers.edu/maldeer/">
