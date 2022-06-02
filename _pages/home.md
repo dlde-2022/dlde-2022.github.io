@@ -110,14 +110,12 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
         <li>Analysis of numerical methods for implementing DEs in DL models (trade-offs, benchmarks, ...) </li> 
         <li>Modeling training dynamics using DEs to generate theoretical insights and novel algorithms. </li>
       </ul>
-      </li>
       <li>Using deep learning algorithms to create or solve differential equation models:</li> 
       <ul>
         <li>DL methods for solving high-dimensional, highly parameterized, or otherwise challenging DE models.</li>
         <li>Learning-augmented numerical methods for DEs (hypersolvers, hybrid solvers ...) </li>
         <li>Specialized DL architectures for solving DEs (neural operators, PINNs, ...). </li>
       </ul>
-      </li>
     </ul>
   </div>
 </div>
@@ -164,31 +162,26 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <p><b>(EST) Morning </b></p>
     <ul>
       <li>06:45 : Introduction and opening remarks</li>
-      <li>07:00 : Invited Talk 1 - Weinan E - Machine Learning and PDEs</li>
-      <li>07:45 : Spotlight Talk 1 - NeurInt-Learning Interpolation by Neural ODEs </li>
-      <li>08:00 : Spotlight Talk 2 - Neural ODE Processes: A Short Summary  </li>
-      <li>08:15 : Invited Talk 2 - Neha Yadav - Deep learning methods for solving differential equations </li>
+      <li>07:00 : Invited Talk 1</li>
+      <li>07:45 : Spotlight Talk 1 </li>
+      <li>08:00 : Spotlight Talk 2 </li>
+      <li>08:15 : Invited Talk 2 </li>
       <li>09:00 : Coffee Break</li>
-      <li>09:15 : Spotlight Talk 3 - GRAND: Graph Neural Diffusion </li>
-      <li>09:30 : Spotlight Talk 4 - Neural Solvers for Fast and Accurate Numerical Optimal Control </li>
-      <li>09:45 : Poster Session 1 - <a href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">GatherTown room</a></li>
-      <li>10:30 : Invited Talk 3 - Philipp Grohs - The Theory-to-Practice Gap in Deep Learning </li>
-      <li>11:15 : Lunch Break                </li>
+      <li>09:15 : Spotlight Talk 3 </li>
+      <li>09:30 : Spotlight Talk 4 </li>
+      <li>09:45 : Poster Session 1 </li>
+      <li>10:30 : Invited Talk 3 </li>
+      <li>11:15 : Lunch Break </li>
     </ul>
     <p><b>(EST) Afternoon </b></p>
     <ul>
-      <li>13:45 : Spotlight Talk 5 - Deep Reinforcement Learning for Online Control of Stochastic Partial Differential Equations </li>
-      <li>14:00 : Spotlight Talk 6 - Statistical Numerical PDE : Fast Rate, Neural Scaling Law and When it’s Optimal </li>
+      <li>13:45 : Spotlight Talk 5 </li>
+      <li>14:00 : Spotlight Talk 6 </li>
       <li>14:15 : Coffee Break</li>
-      <li>14:30 : Poster Session 2 - <a href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">GatherTown room</a></li>
-      <li>15:15 : Invited Talk 4 - Anima Anandkumar - Neural operator: A new paradigm for learning PDEs </li>
-      <li>16:00 : Spotlight Talk 7 - HyperPINN: Learning parameterized differential equations with physics-informed hypernetworks  </li>
-      <li>16:15 : Spotlight Talk 8 - Learning Implicit PDE Integration with Linear Implicit Layers </li>
-    </ul>
-    <p><b>(EST) Night </b></p>
-    <ul>
-      <li>23:00 : Panel discussion - Solving Differential Equations with Deep Learning: State of the Art and Future Directions     </li>
-      <li>24:00 : Final Remarks</li>
+      <li>14:30 : Poster Session 2 </li>
+      <li>15:15 : Invited Talk 4 </li>
+      <li>16:00 : Spotlight Talk 7 </li>
+      <li>16:15 : Spotlight Talk 8 </li>
     </ul>
   </div>
 </div>
