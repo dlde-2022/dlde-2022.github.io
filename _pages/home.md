@@ -218,10 +218,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/weinane.jpg" | prepend:site.baseurl }}">
-    <p><b>Weinan E</b>
-    (confirmed) is a professor in Applied and Computational Mathematics at Princeton University. His current research interests lie at the intersection of mathematics, physics, and machine learning. He has made important contributions to the theoretical foundations of deep neural networks, exploring questions on training dynamics and generalization. Additionally, he has driven the development of machine learning algorithms for use in computational science, including solution methods for complicated PDE problems and techniques for incorporating mathematical models into data-driven approaches. 
-    <span style="color:#3a92d6;font-weight:400;">[<a href="https://web.math.princeton.edu/~weinan/">Webpage</a>]</span></p>
+    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/yangsong.jpg" | prepend:site.baseurl }}">
+    <p><b>Yang Song</b>
+    (confirmed) is a final year Ph.D. student of Computer Science at Stanford University. His work focuses on the foundations of deep generative models, as well as their applications to AI safety, inverse problems, and their impacts on the broader field of machine learning. He has made several key contributions to the mathematical formulation and empirical performance of continuous-time score-based diffusion models, currently state--of--the--art methods in deep generative modeling.
+    <span style="color:#3a92d6;font-weight:400;">[<a href="https://yang-song.github.io/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
