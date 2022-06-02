@@ -198,10 +198,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/nehayadav2.jpg" | prepend:site.baseurl }}">
-    <p><b>Neha Yadav</b>
-    (confirmed) is an assistant professor at the National Institute of Technology Hamirpur. Her research focuses on using neural networks and other machine learning techniques to solve differential equations, and exploring new optimization algorithms such as harmony search algorithms or particle swarm optimization. In addition to her many publications, she is a co-author of ''An Introduction to Neural Network Methods for Differential Equations'', the first textbook on the subject. 
-    <span style="color:#3a92d6;font-weight:400;">[<a href="https://portfolios.nith.ac.in/index.php?/nith/dr-neha-yadav-">Webpage</a>]</span></p>
+    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/chrisrackauckas.jpg" | prepend:site.baseurl }}">
+    <p><b>Chris Rackauckas</b>
+    (confirmed) is the Co-PI of the Julia Lab at the Computer Science and AI Laboratory (CSAIL) of the Massachussets Institute of Science and Technology (MIT), as well as the director of Modeling and Simulation at Julia Computing and of Scientific Research at Pumas-AI. His research spans topics in numerical methods for differential equations, scientific machine learning and high-performance computing. He is the lead developer of the DifferentialEquations.jl solver suite along with over a hundred other Julia packages, earning him the inaugural Julia Community Prize, an outstanding paper award at the IEEE-HPEC conference on computational derivation for the efficient stochastic differential equation solvers, and front page features on many tech community sites.
+    <span style="color:#3a92d6;font-weight:400;">[<a href="https://chrisrackauckas.com/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
@@ -225,14 +225,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 </div><br>
 
-<div class="row">
-  <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/animaanandkumar.jpg" | prepend:site.baseurl }}">
-    <p><b>Anima Anandkumar</b>
-    (confirmed) holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At Caltech, she is the co-director of Dolcit and co-leads the AI4science initiative, along with Yisong Yue. She has spearheaded the development of tensor algorithms, first proposed in her seminal paper, which enable efficient processing of multidimensional and multimodal data. Her contributions to Physics Informed Deep Learning, such as the Fourier Neural Operator network for solving parametric PDEs, have sparked great interest in the community.    
-    <span style="color:#3a92d6;font-weight:400;">[<a href="http://tensorlab.cms.caltech.edu/users/anima/">Webpage</a>]</span></p>
-  </div>
-</div><br>
 
 
 <div class="row" id="recordings">
