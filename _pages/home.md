@@ -295,16 +295,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </div>
   </div>
 
-  <div class="col-xs-3">
-        <a href="http://rlily.hu/">
-      <img class="people-pic" src="{{ "/static/img/people/Lily.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://rlily.hu/">Lily Hu</a>
-      <h6>Google Research</h6>
-    </div>
-  </div>
-  </div>
+</div>
 
 <div class="row">
   <div class="col-xs-3">
@@ -350,15 +341,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 
   <div class="row">
-  <div class="col-xs-3">
-    <a href="https://www.ece.rutgers.edu/jorge-ortiz">
-      <img class="people-pic" src="{{ "/static/img/people/jortiz.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.ece.rutgers.edu/jorge-ortiz">Jorge Ortiz</a>
-      <h6>Rutgers University</h6>
-    </div>
-  </div>
 
   <div class="col-xs-3">
     <a href="https://zymrael.github.io/">
@@ -377,17 +359,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <div class="people-name">
       <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">Ermal Rrapaj</a>
       <h6>University of California, Berkley</h6>
-    </div>
-  </div>
-
-
-  <div class="col-xs-3">
-    <a href="https://sites.google.com/winlab.rutgers.edu/maldeer/">
-      <img class="people-pic" src="{{ "/static/img/people/murtadhaaldeer.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://sites.google.com/winlab.rutgers.edu/maldeer/">Murtadha Aldeer</a>
-      <h6>Rutgers University</h6>
     </div>
   </div>
 
