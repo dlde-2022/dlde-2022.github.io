@@ -246,6 +246,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 </div>
 
+
 <div class="row">
   
    <div class="col-xs-3">
@@ -276,6 +277,17 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <div class="people-name">
       <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
       <h6>Université de Sherbrooke</h6>
+    </div>
+  </div>
+  
+  
+  <div class="col-xs-3">
+    <a href="https://winniexu.ca/">
+      <img class="people-pic" src="{{ "/static/img/people/winniexu.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://winniexu.ca/">Winnie Xu</a>
+      <h6>Google Brain</h6>
     </div>
   </div>
 
