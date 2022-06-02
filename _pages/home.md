@@ -208,10 +208,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-md-12">
-    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/philippgrohs.jpg" | prepend:site.baseurl }}">
-    <p><b>Philipp Grohs</b>
-    (confirmed) is a professor at the University of Vienna. His research interests lie in approximation theory and computational harmonic analysis. In addition, he is known for his work on numerical methods for PDEs, and has made important contributions to the development and analysis of machine learning algorithms for the numerical approximation of high-dimensional PDEs. Of particular notice is his theoretical work on error estimates for deep network approximations to the solutions of PDEs, including his proofs that neural networks overcome the curse of dimensionality in these applications.     
-    <span style="color:#3a92d6;font-weight:400;">[<a href="https://mat.univie.ac.at/~grohs/">Webpage</a>]</span></p>
+    <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/rose_Yu.jpg" | prepend:site.baseurl }}">
+    <p><b>Rose Yu</b>
+    (confirmed) is an assistant professor at UC San Diego department of Computer Science and Engineering and Halıcıo ̆glu Data Science Institute. She is a primary faculty with the AI Group and is affiliated with Contextual Robotics Institute, Bioinformatics and Systems Biology, and Center for Machine-Integrated Computing and Security. Her research interests lie primarily in machine learning, especially for large-scale spatiotemporal data. She is generally interested in deep learning, optimization, and spatio-temporal reasoning, and particularly excited about the interplay between physics and machine learning. Her work has been applied to learning dynamical systems in sustainability, health and physical sciences.
+<span style="color:#3a92d6;font-weight:400;">[<a href="https://roseyu.com/">Webpage</a>]</span></p>
   </div>
 </div><br>
 
