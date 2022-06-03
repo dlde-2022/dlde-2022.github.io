@@ -246,15 +246,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   
-   <div class="col-xs-3">
-    <a href="https://www.ekbuchanan.com/">
-      <img class="people-pic" src="{{ "/static/img/people/kellybuchanan.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.ekbuchanan.com/">Kelly Buchanan</a>
-      <h6>Columbia University</h6>
-    </div>
-  </div>
 
 
   <div class="col-xs-3">
@@ -263,6 +254,17 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </a>
     <div class="people-name">
       <a href="https://animesh.garg.tech/">Animesh Garg</a>
+      <h6>University of Toronto, Vector Institute, NVIDIA</h6>
+    </div>
+  </div>
+
+
+  <div class="col-xs-3">
+    <a href="http://www.cs.toronto.edu/~duvenaud/">
+      <img class="people-pic" src="{{ "/static/img/people/davidduvenaud.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a>
       <h6>University of Toronto, Vector Institute, NVIDIA</h6>
     </div>
   </div>
@@ -348,22 +350,40 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 
   <div class="col-xs-3">
-    <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">
-      <img class="people-pic" src="{{ "/static/img/people/ermalrrapaj.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">Ermal Rrapaj</a>
-      <h6>University of California, Berkley</h6>
-    </div>
-  </div>
-
-  <div class="col-xs-3">
     <a href="https://maryamhoss.github.io/">
       <img class="people-pic" src="{{ "/static/img/people/maryam.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://maryamhoss.github.io/">Maryam Hosseini</a>
       <h6>Université de Sherbrooke</h6>
+    </div>
+  </div>
+
+
+   <div class="col-xs-3">
+    <a href="https://www.ekbuchanan.com/">
+      <img class="people-pic" src="{{ "/static/img/people/kellybuchanan.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.ekbuchanan.com/">Kelly Buchanan</a>
+      <h6>Columbia University</h6>
+    </div>
+  </div>
+  
+
+  </div>
+  
+
+  <div class="row">
+
+
+  <div class="col-xs-3">
+    <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">
+      <img class="people-pic" src="{{ "/static/img/people/ermalrrapaj.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://n3as.berkeley.edu/p/fellow/ermal-rrapaj/">Ermal Rrapaj</a>
+      <h6>University of California, Berkley</h6>
     </div>
   </div>
 
