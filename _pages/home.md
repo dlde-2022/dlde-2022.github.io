@@ -424,21 +424,6 @@ For those who have not used GatherTown before, there is a quick tutorial availab
 
 <br>
 
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Expert panel session</h2>
-  </div>
-</div>
-
-
-We are pleased to be hosting an expert panel session at 11pm EST on “Solving Differential Equations with Deep Learning: State of the Art and Future Directions”. Our panelists are Profs. Anima Anandkumar, Weinan E, and Neha Yadav.
-We would like to encourage the audience to participate actively with our panelists. If possible, please join this event through the Zoom meeting, so that questions can be posed using microphones and cameras. Of course, we will also be monitoring the rocket.chat interface.
-Those who would like to submit questions for our panelists ahead of time can do so through the following <a href="https://forms.gle/j37v5zmck1k1psww6">form</a>.
-
-<p>
-
-</p>
-<br>
 
 <div class="row">
   <div class="col-xs-12">
