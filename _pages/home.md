@@ -270,16 +270,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </div>
   </div>
 
-  <div class="col-xs-3">
-    <a href="https://lucehe.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
-      <h6>Université de Sherbrooke</h6>
-    </div>
-  </div>
-  
   
   <div class="col-xs-3">
     <a href="https://winniexu.ca/">
@@ -289,6 +279,17 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <a href="https://winniexu.ca/">Winnie Xu</a>
       <h6>University of Toronto</h6>
       <h6>Google Brain</h6>
+    </div>
+  </div>
+  
+  
+  <div class="col-xs-3">
+    <a href="https://www.jogar.ch/">
+      <img class="people-pic" src="{{ "/static/img/people/archisjoglekar.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.jogar.ch/">Archis Joglekar</a>
+      <h6>Amazon Web Services</h6>
     </div>
   </div>
 
@@ -368,6 +369,18 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <h6>Université de Sherbrooke</h6>
     </div>
   </div>
+
+
+  <div class="col-xs-3">
+    <a href="https://lucehe.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/lucaherrtti.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://lucehe.github.io/">Luca Herranz-Celotti</a>
+      <h6>Université de Sherbrooke</h6>
+    </div>
+  </div>
+  
 
   </div>
 
