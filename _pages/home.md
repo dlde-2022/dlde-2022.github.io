@@ -265,7 +265,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </a>
     <div class="people-name">
       <a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a>
-      <h6>University of Toronto, Vector Institute, NVIDIA</h6>
+      <h6>University of Toronto, Vector Institute</h6>
     </div>
   </div>
 
