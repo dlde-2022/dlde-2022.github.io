@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE) - II </h1></center>
     <center><h2>NeurIPS 2022 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      December 14th, 08:00 AM to 16:00 PM EST,
+      December 14th, 07:00 AM to 14:00 PM EST,
       Virtual Workshop
     </span></center>
   </div>
@@ -161,27 +161,24 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   <div class="col-xs-12">
     <p><b>(EST) Morning </b></p>
     <ul>
-      <li>06:45 : Introduction and opening remarks</li>
-      <li>07:00 : Invited Talk 1</li>
-      <li>07:45 : Spotlight Talk 1 </li>
-      <li>08:00 : Spotlight Talk 2 </li>
-      <li>08:15 : Invited Talk 2 </li>
-      <li>09:00 : Coffee Break</li>
-      <li>09:15 : Spotlight Talk 3 </li>
-      <li>09:30 : Spotlight Talk 4 </li>
-      <li>09:45 : Poster Session 1 </li>
-      <li>10:30 : Invited Talk 3 </li>
-      <li>11:15 : Lunch Break </li>
+      <li>07:00 : Introduction and opening remarks</li>
+      <li>07:10 : Keynote Talk 1</li>
+      <li>07:55 : Contributed Talk 1 </li>
+      <li>08:10 : Poster Spotlight 1 </li>
+      <li>08:20 : Poster Session 1 </li>
+      <li>09:05 : Keynote Talk 2 </li>
+      <li>09:50 : Contributed Talk 2 </li>
+      <li>10:05 : Lunch Break </li>
     </ul>
     <p><b>(EST) Afternoon </b></p>
     <ul>
-      <li>13:45 : Spotlight Talk 5 </li>
-      <li>14:00 : Spotlight Talk 6 </li>
-      <li>14:15 : Coffee Break</li>
-      <li>14:30 : Poster Session 2 </li>
-      <li>15:15 : Invited Talk 4 </li>
-      <li>16:00 : Spotlight Talk 7 </li>
-      <li>16:15 : Spotlight Talk 8 </li>
+      <li>11:05 : Keynote Talk 3 </li>
+      <li>11:50 : Contributed Talk 3 </li>
+      <li>12:05 : Poster Session 2 </li>
+      <li>12:50 : Poster Spotlight 2 </li>
+      <li>13:00 : Keynote Talk 4 </li>
+      <li>13:45 : Contributed Talk 4 </li>
+      <li>14:00 : Closing Remarks </li>
     </ul>
   </div>
 </div>
