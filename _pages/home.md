@@ -68,6 +68,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 </div>
 
+
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped">
