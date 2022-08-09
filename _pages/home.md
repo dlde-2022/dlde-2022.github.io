@@ -73,7 +73,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Submission Deadline (Extended)</td>
+          <td>Submission Deadline</td>
           <td>September 24th,  2022 - Anywhere on Earth (AoE)</td>
         </tr>
         <tr>
@@ -139,7 +139,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   Authors may be asked to review other workshop submissions. 
   </p>
   <p>
-  Please submit your extended abstract to <span style="color:#3a92d6;font-weight:400;"><a href="https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DLDE">this address.</a></span>
+  Please submit your extended abstract to <span style="color:#3a92d6;font-weight:400;"><a href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/DLDE">this address.</a></span>
    </p>
     <p>
   If you have any questions, send an email to one of the following: [luca.celotti@usherbrooke.ca, poli@stanford.edu]
