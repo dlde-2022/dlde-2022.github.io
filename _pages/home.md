@@ -34,6 +34,18 @@ acknowledgements: ""
 </div>
 
 
+
+<center><span style="color:#3a92d6;font-weight:400;">
+Submit your article for review
+<a style="font-weight:500;" href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/DLDE">[here]</a>
+</span></center>
+
+
+<center><span style="color:#3a92d6;font-weight:400;">
+Submit your questions to the speakers
+<a style="font-weight:500;" href="https://docs.google.com/forms/d/e/1FAIpQLSdFCYz-M0265jHEOwmnUXmkxhCPOM313B2piSV6KOgECGe1fw/viewform">[here]</a>
+</span></center>
+
 <br>
 <div class="row" id="intro">
   <div class="col-xs-12">
