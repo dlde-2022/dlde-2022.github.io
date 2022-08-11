@@ -331,7 +331,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </a>
     <div class="people-name">
       <a href="https://kidger.site/">Patrick Kidger</a>
-      <h6>University of Oxford</h6>
+      <h6>Google X</h6>
     </div>
   </div>
 
