@@ -389,6 +389,16 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <h6>Columbia University</h6>
     </div>
   </div>
+
+   <div class="col-xs-3">
+    <a href="https://qiyaowei.github.io">
+      <img class="people-pic" src="{{ "/static/img/people/qiyao.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://qiyaowei.github.io">Qiyao Wei</a>
+      <h6>University of Cambridge</h6>
+    </div>
+  </div>
   
 
   </div>
