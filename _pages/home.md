@@ -315,15 +315,18 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 </div>
 
 <div class="row">
+
   <div class="col-xs-3">
-    <a href="http://thorjonsson.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/thor.jpg" | prepend:site.baseurl }}">
+    <a href="https://zymrael.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/michaelpoli2.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://thorjonsson.github.io/">Thor Jonsson</a>
-      <h6>University of Guelph</h6>
+      <a href="https://zymrael.github.io/">Michael Poli</a>
+      <h6>Stanford University</h6>
     </div>
   </div>
+
+
 
   <div class="col-xs-3">
     <a href="https://kidger.site/">
@@ -359,15 +362,17 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
   <div class="row">
 
+
   <div class="col-xs-3">
-    <a href="https://zymrael.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/michaelpoli2.png" | prepend:site.baseurl }}">
+    <a href="http://thorjonsson.github.io/">
+      <img class="people-pic" src="{{ "/static/img/people/thor.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://zymrael.github.io/">Michael Poli</a>
-      <h6>Stanford University</h6>
+      <a href="http://thorjonsson.github.io/">Thor Jonsson</a>
+      <h6>University of Guelph</h6>
     </div>
   </div>
+
 
   <div class="col-xs-3">
     <a href="https://maryamhoss.github.io/">
@@ -392,7 +397,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
    <div class="col-xs-3">
     <a href="https://qiyaowei.github.io">
-      <img class="people-pic" src="{{ "/static/img/people/qiyao.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/qiyao.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://qiyaowei.github.io">Qiyao Wei</a>
