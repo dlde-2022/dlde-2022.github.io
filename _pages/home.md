@@ -237,11 +237,10 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   <div class="col-md-12">
     <img class="speaker-pic" style="float:left;margin-right:30px;" src="{{ "/static/img/people/yangsong.jpg" | prepend:site.baseurl }}">
     <p><b>Yang Song</b>
-    (confirmed) is a final year Ph.D. student of Computer Science at Stanford University. His work focuses on the foundations of deep generative models, as well as their applications to AI safety, inverse problems, and their impacts on the broader field of machine learning. He has made several key contributions to the mathematical formulation and empirical performance of continuous-time score-based diffusion models, currently state--of--the--art methods in deep generative modeling.
-    <span style="color:#3a92d6;font-weight:400;">[<a href="https://yang-song.github.io/">Webpage</a>]</span></p>
+    (confirmed) received his Ph.D. in Computer Science from Stanford University. He was a research intern at Google Brain, Uber ATG, and Microsoft Research. He obtained his Bachelor’s degree in Mathematics and Physics from Tsinghua University. His research is in machine learning, with a particular focus on developing scalable ways to model, estimate, analyze and generate high-dimensional data with complex structures. Typical topics of interest include, but are not limited to, generative modeling, representation learning, robustness and reliability, probabilistic inference, and AI4science. He is one of the initial contributors to score-based generative models (diffusion models). His goal is to tackle fundamental problems that are broadly significant, devise methods that are simple yet effective, and build intelligent systems that can widely benefit humanity.
+    <span style="color:#3a92d6;font-weight:400;">[<a href="https://yang-song.net/">Webpage</a>]</span></p>
   </div>
 </div><br>
-
 
 
 <div class="row" id="recordings">
