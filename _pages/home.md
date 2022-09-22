@@ -87,7 +87,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <tbody>
         <tr>
           <td>Submission Deadline</td>
-          <td>September 24th,  2022 - Anywhere on Earth (AoE)</td>
+          <td>October 1st,  2022 - Anywhere on Earth (AoE)</td>
         </tr>
         <tr>
           <td>Final Decisions</td>
