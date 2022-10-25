@@ -191,7 +191,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
       <li>06:50 : Blind Drifting: Diffusion models with a linear SDE drift term for blind image restoration tasks (Spotlight) </li>
       <li>07:05 : Break </li>
       <li>08:05 : Rose Yu (Keynote Talk) </li>
-      <li>08:50 : A Universal Abstraction for Hierarchical Hopfield Networks </li>
+      <li>08:50 : A Universal Abstraction for Hierarchical Hopfield Networks (Spotlight) </li>
       <li>09:05 : Poster Session 2 </li>
       <li>10:00 : Christopher Rackauckas (Keynote Talk) </li>
       <li>10:45 : Closing remarks </li>
