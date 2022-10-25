@@ -179,26 +179,22 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <div class="row">
   <div class="col-xs-12">
-    <p><b>(EST) Morning </b></p>
+    <p><b>(Pacific Time) </b></p>
     <ul>
-      <li>07:00 : Introduction and opening remarks</li>
-      <li>07:10 : Keynote Talk 1</li>
-      <li>07:55 : Contributed Talk 1 </li>
-      <li>08:10 : Poster Spotlight 1 </li>
-      <li>08:20 : Poster Session 1 </li>
-      <li>09:05 : Keynote Talk 2 </li>
-      <li>09:50 : Contributed Talk 2 </li>
-      <li>10:05 : Lunch Break </li>
-    </ul>
-    <p><b>(EST) Afternoon </b></p>
-    <ul>
-      <li>11:05 : Keynote Talk 3 </li>
-      <li>11:50 : Contributed Talk 3 </li>
-      <li>12:05 : Poster Session 2 </li>
-      <li>12:50 : Poster Spotlight 2 </li>
-      <li>13:00 : Keynote Talk 4 </li>
-      <li>13:45 : Contributed Talk 4 </li>
-      <li>14:00 : Closing Remarks </li>
+      <li>04:00 : Introduction and opening remarks</li>
+      <li>04:10 : Provable Active Learning of Neural Networks for Parametric PDEs (Spotlight) </li>
+      <li>04:25 : PIXEL: Physics-Informed Cell Representations for Fast and Accurate PDE Solvers (Spotlight) </li>
+      <li>04:40 : Bridging the Gap Between Coulomb GAN and Gradient-regularized WGAN (Spotlight) </li>
+      <li>04:55 : How PINNs cheat: Predicting chaotic motion of a double pendulum (Spotlight) </li>
+      <li>05:10 : Poster Session 1 </li>
+      <li>06:05 : Yang Song (Keynote Talk) </li>
+      <li>06:50 : Blind Drifting: Diffusion models with a linear SDE drift term for blind image restoration tasks (Spotlight) </li>
+      <li>07:05 : Break </li>
+      <li>08:05 : Rose Yu (Keynote Talk) </li>
+      <li>08:50 : A Universal Abstraction for Hierarchical Hopfield Networks </li>
+      <li>09:05 : Poster Session 2 </li>
+      <li>10:00 : Christopher Rackauckas (Keynote Talk) </li>
+      <li>10:45 : Closing remarks </li>
     </ul>
   </div>
 </div>
@@ -265,14 +261,11 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
   </div>
 </div>
 
-
-
 <center><span style="color:#3a92d6;font-weight:400;">
 <a style="font-weight:500;" href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/DLDE#accept--spotlight-">[Spotlight Papers]</a>
 </span></center>
 
 <center><span style="color:#3a92d6;font-weight:400;">
-Submit your article for review
 <a style="font-weight:500;" href="https://openreview.net/group?id=NeurIPS.cc/2022/Workshop/DLDE#accept--poster-">[Poster Papers]</a>
 </span></center>
 
