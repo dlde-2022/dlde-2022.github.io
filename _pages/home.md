@@ -438,44 +438,6 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
 
 <hr>
 
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Attending the workshop</h2>
-  </div>
-</div>
-
-
-
-There are two ways to attend the presentations on the day of the workshop.
-The first option is to watch the presentations at this <a href="https://neurips.cc/virtual/2021/workshop/21880">link</a>. Please use the rocket.chat text interface on that page to submit questions for the presenters.
-Alternatively, attendees can join the Zoom meeting directly using the link at the top of that page. As an attendee in the Zoom meeting, you will be able to raise your hand to ask questions directly with your microphone and camera.
-We would like to encourage everyone to attend via the Zoom meeting whenever feasible. Our hope is that the workshop will be as interactive and engaging as possible for an online event.
-Additional details about attending the NeurIPS 2021 virtual conference in general can be found 
-<a href="https://neurips.cc/virtual/2021/index.html">here</a>.
-
-
-<p>
-
-</p>
-<br>
-
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Poster sessions in GatherTown</h2>
-  </div>
-</div>
-
-
-The poster sessions will be hosted by GatherTown at the following 
-<a href="https://eventhosts.gather.town/wR7m2n0AMEhpzwM2/neurips2021reserveSpace8">link</a>
-.
-If you are logged into your NeurIPS account in your browser, GatherTown will try to detect these login credentials and automatically create a GatherTown profile based on your NeurIPS profile. If this isn’t happening, you can also follow the GatherTown instructions on how to create a profile when signing in for the first time.
-For those who have not used GatherTown before, there is a quick tutorial available on the website when you log in. Alternatively, you can find resources on
- <a href="https://support.gather.town/help/gather-basics">their website</a>.
-
-<p>
-
-</p>
 
 <br>
 
