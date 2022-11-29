@@ -324,7 +324,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
     </a>
     <div class="people-name">
       <a href="https://www.jogar.ch/">Archis Joglekar</a>
-      <h6>Amazon Web Services</h6>
+      <h6>Syntensor + University of Michigan</h6>
     </div>
   </div>
 
