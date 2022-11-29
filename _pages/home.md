@@ -16,7 +16,7 @@ acknowledgements: ""
     <center><h1>The Symbiosis of Deep Learning and Differential Equations (DLDE) - II </h1></center>
     <center><h2>NeurIPS 2022 Workshop</h2></center>
     <center><span style="color:#e74c3c;font-weight:400;">
-      December 14th, 07:00 AM to 14:00 PM EST,
+      December 9th, 07:00 AM to 14:00 PM EST,
       Virtual Workshop
     </span></center>
   </div>
