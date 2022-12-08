@@ -95,7 +95,7 @@ The scope of the workshop spans topics at the intersection of DL and DEs, includ
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>December 14th, 2022 - AoE </td>
+          <td>December 9th, 2022 - AoE </td>
         </tr>
       </tbody>
     </table>
